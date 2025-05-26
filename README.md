@@ -1,3 +1,5 @@
+Project grade: 8
+
 ALU Project (Arithmetic Logic Unit) – Digital Systems
 This repository contains the complete ALU project developed by Luca Filippi and Lorena Villagelin as the final assignment for the Digital Systems course (1st semester of 2025).
 
